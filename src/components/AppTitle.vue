@@ -12,3 +12,11 @@
     }
   };
 </script>
+
+<style scoped>
+h1 {
+    color: red;
+    text-align: center;
+    margin-bottom: 5rem;
+}
+</style>
